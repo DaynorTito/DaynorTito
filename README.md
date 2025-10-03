@@ -2,7 +2,7 @@
   
 #  Hi, I'm Daynor Tito
 
-### 🚀 Backend Developer | Lifelong Learner | Tech Enthusiast | AI Researcher
+### 🚀 Backend Developer | Lifelong Learner | AI Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning+New+Things;Building+Scalable+Solutions;Code+%2B+Coffee+%3D+Magic)](https://git.io/typing-svg)
 
